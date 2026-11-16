@@ -1,4 +1,5 @@
 [build]
+  base = "iCARE_site/icare-website"
   command = "npm run build"
   publish = "."
 
