@@ -1,3 +1,3 @@
 [build]
-  base = "iCARE_site/icare-website"
+  base = "icare-website"
   publish = "."
